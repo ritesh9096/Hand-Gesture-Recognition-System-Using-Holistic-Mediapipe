@@ -6,3 +6,4 @@ Network(RNN) that distinguishes gestures that are trained in real-time by a pict
 Technology: Holistic Mediapipe, Sign language recognition [SLR], LSTM, Computer Vision, Deep Learning, RNN.
 
 Train our own dataset
+   
