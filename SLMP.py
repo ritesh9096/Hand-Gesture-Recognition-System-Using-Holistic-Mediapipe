@@ -5,7 +5,7 @@
 
 
 import cv2    
-import numpy as np
+import numpy as np     
 import os
 import time
 import mediapipe as mp
