@@ -134,7 +134,7 @@ for res in results.pose_landmarks.landmark:
     pose.append(test)
 
 
-# In[52]:
+# In[52]:    
 
 
 pose = np.array([[res.x, res.y, res.z, res.visibility] for res in results.pose_landmarks.landmark]).flatten() if results.pose_landmarks else np.zeros(132)
