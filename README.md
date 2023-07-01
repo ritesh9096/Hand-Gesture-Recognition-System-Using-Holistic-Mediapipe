@@ -7,11 +7,11 @@ Technology: Holistic Mediapipe, Sign language recognition [SLR], LSTM, Computer 
 
 Train our own dataset
    
-To run the code, you need to have the necessary dependencies installed, including OpenCV, numpy, mediapipe, and TensorFlow. Make sure you have these libraries installed before running the code.
+To run the code, you need to have the necessary dependencies installed, including OpenCV, numpy, media pipe, and TensorFlow. Make sure you have these libraries installed before running the code.
 
 Here's a step-by-step guide on how to run the code:
 
-Install the required dependencies: OpenCV, numpy, mediapipe, and TensorFlow.
+Install the required dependencies: OpenCV, numpy, media pipe, and TensorFlow.
 Save the code in a Python script (e.g., gesture_recognition.py).
 Open a terminal or command prompt and navigate to the directory where the script is saved.
 Run the script by executing the command: python gesture_recognition.py.   
